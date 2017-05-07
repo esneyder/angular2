@@ -1,0 +1,5 @@
+<div *ngIf="course">
+    <img [src]="course.image">
+    <h2>{{course.title}}</h2>
+    <span>{{course.price | currency : 'USD': true : '1.2-2'}}</span>
+</div>

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Curso 1",
+        "image": "http://cdn3.upsocl.com/wp-content/uploads/2014/08/Captura-de-pantalla-2014-08-01-a-las-15.33.07.jpg",
+        "price": 2500
+    },
+    {
+        "id": 2,
+        "title": "Curso 23",
+        "image": "http://cdn3.upsocl.com/wp-content/uploads/2014/08/Captura-de-pantalla-2014-08-01-a-las-15.33.07.jpg",
+        "price": 345342500
+    },
+    {
+        "id": 3,
+        "title": "Curso hola",
+        "image": "http://cdn3.upsocl.com/wp-content/uploads/2014/08/Captura-de-pantalla-2014-08-01-a-las-15.33.07.jpg",
+        "price": 254500
+    }
+]
